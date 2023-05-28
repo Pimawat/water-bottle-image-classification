@@ -7,4 +7,4 @@ There are several potential applications for this machine learning model. One po
 Another potential application is in the development of automated systems for monitoring and managing water levels in containers. For example, the model could be used to track the water levels in water bottles or other containers and alert users when the water level is low or reaching capacity.
 
 Overall, the model has the potential to be used in a variety of applications related to water levels in containers, including both business and research purposes.
-
+  
